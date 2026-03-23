@@ -1,0 +1,1101 @@
+[
+  {
+    "codigo": "LEL8101014",
+    "nombre": "Cable Eléctrico negro cal.10",
+    "categoria": "Eléctricos",
+    "precio": 25.0,
+    "stock": 45
+  },
+  {
+    "codigo": "66073130032",
+    "nombre": "Barreta de uña",
+    "categoria": "herramienta",
+    "precio": 250.0,
+    "stock": 1
+  },
+  {
+    "codigo": "7501841000462",
+    "nombre": "Limpia hornos",
+    "categoria": "solventes",
+    "precio": 30.0,
+    "stock": 2
+  },
+  {
+    "codigo": "LEL8101014",
+    "nombre": "Cable Eléctrico rojo cal.10",
+    "categoria": "Eléctricos",
+    "precio": 25.0,
+    "stock": 20
+  },
+  {
+    "codigo": "0",
+    "nombre": "Cable de bocina cal.18",
+    "categoria": "electricos",
+    "precio": 9.5,
+    "stock": 15
+  },
+  {
+    "codigo": "7506401306343",
+    "nombre": "Extencion uso rudo 20mts(IGOTO)",
+    "categoria": "Electricos",
+    "precio": 195.0,
+    "stock": 1
+  },
+  {
+    "codigo": "7506401306336",
+    "nombre": "Extencion uso rudo 15Mts(IGOTO)",
+    "categoria": "Electricos",
+    "precio": 145.0,
+    "stock": 1
+  },
+  {
+    "codigo": "7502252574191",
+    "nombre": "Extencion uso rudo 10Mts(IGOTO)",
+    "categoria": "Electricos",
+    "precio": 100.0,
+    "stock": 1
+  },
+  {
+    "codigo": "7502252574184",
+    "nombre": "Extencion uso rudo 8Mts(IGOTO)",
+    "categoria": "Elecricos",
+    "precio": 90.0,
+    "stock": 1
+  },
+  {
+    "codigo": "7506401306435",
+    "nombre": "Extencion uso rudo 6Mts(IGOTO)",
+    "categoria": "Electtricos",
+    "precio": 68.0,
+    "stock": 2
+  },
+  {
+    "codigo": "7502252574177",
+    "nombre": "Extencion uso rudo 5Mts(IGOTO)",
+    "categoria": "Electricos",
+    "precio": 60.0,
+    "stock": 1
+  },
+  {
+    "codigo": "7506401306428",
+    "nombre": "Extencion uso rudo 4Mts(IGOTO)",
+    "categoria": "Electricos",
+    "precio": 50.0,
+    "stock": 3
+  },
+  {
+    "codigo": "7502252574160",
+    "nombre": "Extencion uso rudo 3Mts(IGOTO)",
+    "categoria": "Electricos",
+    "precio": 40.0,
+    "stock": 1
+  },
+  {
+    "codigo": "7502252574153",
+    "nombre": "Extencion uso rudo 2Mts(IGOTO)",
+    "categoria": "Electricos",
+    "precio": 32.0,
+    "stock": 2
+  },
+  {
+    "codigo": "7506183804372",
+    "nombre": "Barra multiContacto(KLEY)",
+    "categoria": "Electricos",
+    "precio": 70.0,
+    "stock": 3
+  },
+  {
+    "codigo": "7502252574139",
+    "nombre": "Extencion uso domestico 8Mts(IGOTO)",
+    "categoria": "Electricos",
+    "precio": 63.0,
+    "stock": 2
+  },
+  {
+    "codigo": "7501206663585",
+    "nombre": "Extencion uso domestico5Mts(VOLTECH)",
+    "categoria": "Electricos",
+    "precio": 104.0,
+    "stock": 1
+  },
+  {
+    "codigo": "7502252574122",
+    "nombre": "Extencion uso domestico 5Mts(IGOTO)",
+    "categoria": "Electricos",
+    "precio": 42.0,
+    "stock": 2
+  },
+  {
+    "codigo": "7502252574115",
+    "nombre": "Extencion uso domestico 3Mts(IGOTO)",
+    "categoria": "Electricos",
+    "precio": 32.0,
+    "stock": 2
+  },
+  {
+    "codigo": "7502252574108",
+    "nombre": "Extencion uso domestico 2Mts(IGOTO)",
+    "categoria": "Electricos",
+    "precio": 25.0,
+    "stock": 3
+  },
+  {
+    "codigo": "7501206658109",
+    "nombre": "Calentador electrico resistencia(VOLTECH)",
+    "categoria": "Electricos",
+    "precio": 55.0,
+    "stock": 1
+  },
+  {
+    "codigo": "750618380053",
+    "nombre": "Calentador electrico resistencia(KLEIMAN)",
+    "categoria": "Electricos",
+    "precio": 45.0,
+    "stock": 3
+  },
+  {
+    "codigo": "506183805836",
+    "nombre": "placa armada con 2 apagadores y contacto(kleiman)",
+    "categoria": "electrico",
+    "precio": 73.0,
+    "stock": 1
+  },
+  {
+    "codigo": "7506401328666",
+    "nombre": "placa armada apagador y contacto gris (igoto)",
+    "categoria": "electrico",
+    "precio": 66.0,
+    "stock": 3
+  },
+  {
+    "codigo": "7506006812874",
+    "nombre": "placa armada con contacto doble blanco (corsa)",
+    "categoria": "electrico",
+    "precio": 40.0,
+    "stock": 5
+  },
+  {
+    "codigo": "7506006812867",
+    "nombre": "placa armada contacto y apagador blanca (corsa)",
+    "categoria": "electrico",
+    "precio": 38.0,
+    "stock": 2
+  },
+  {
+    "codigo": "7506006814427",
+    "nombre": "placa armada doble apagador y un contacto blanca (CORSA)",
+    "categoria": "electrico",
+    "precio": 50.0,
+    "stock": 1
+  },
+  {
+    "codigo": "7506006812812",
+    "nombre": "placa armada con 1 apagador blanca (CORSA)",
+    "categoria": "electrico",
+    "precio": 27.0,
+    "stock": 2
+  },
+  {
+    "codigo": "7506240672920",
+    "nombre": "placa armada con doble apagador blanca (VOLTECK)",
+    "categoria": "Electrico",
+    "precio": 60.0,
+    "stock": 2
+  },
+  {
+    "codigo": "7501942344571",
+    "nombre": "placa armada con doble apagador blanca (SANELEC)",
+    "categoria": "electrico",
+    "precio": 50.0,
+    "stock": 1
+  },
+  {
+    "codigo": "7506006812836",
+    "nombre": "placa armada con 3 apagadores blanca (CORSA)",
+    "categoria": "Electrico",
+    "precio": 50.0,
+    "stock": 2
+  },
+  {
+    "codigo": "7506006814427",
+    "nombre": "placa armada con 2 apagadores y 1 contacto blanca (CORSA)",
+    "categoria": "Electrico",
+    "precio": 50.0,
+    "stock": 1
+  },
+  {
+    "codigo": "7506006814410",
+    "nombre": "placa armada con 2 contactos y 1 apagador blanca (CORSA)",
+    "categoria": "Electrico",
+    "precio": 52.0,
+    "stock": 2
+  },
+  {
+    "codigo": "7506006812881",
+    "nombre": "placa armada de 3 contactos blanca (CORSA)",
+    "categoria": "Electrico",
+    "precio": 53.0,
+    "stock": 2
+  },
+  {
+    "codigo": "7502252573811",
+    "nombre": "contacto duplex aterrizado (IGOTO)",
+    "categoria": "Electrico",
+    "precio": 23.0,
+    "stock": 5
+  },
+  {
+    "codigo": "7501206656587",
+    "nombre": "contacto sencillo cara de chino (VOLTECK)",
+    "categoria": "Electrico",
+    "precio": 35.0,
+    "stock": 5
+  },
+  {
+    "codigo": "660731365092",
+    "nombre": "clavija abrazadera plastica aterrizada (SURTEK)",
+    "categoria": "Electrico",
+    "precio": 25.0,
+    "stock": 3
+  },
+  {
+    "codigo": "7501206658673",
+    "nombre": "contacto reforzado (VOLTECK)",
+    "categoria": "Electrico",
+    "precio": 30.0,
+    "stock": 4
+  },
+  {
+    "codigo": "7501206658628",
+    "nombre": "Contacto plastico aterrizado (VOLTECK)",
+    "categoria": "Electrico",
+    "precio": 30.0,
+    "stock": 1
+  },
+  {
+    "codigo": "660731365047",
+    "nombre": "clavija colgante de vinil (SURTEK)",
+    "categoria": "Electricos",
+    "precio": 15.0,
+    "stock": 1
+  },
+  {
+    "codigo": "7502252573927",
+    "nombre": "Clavija polarizada con abrazadera(IGOTO)",
+    "categoria": "Electricos",
+    "precio": 15.0,
+    "stock": 4
+  },
+  {
+    "codigo": "7502252573910",
+    "nombre": "Clavija aterrizada con abrazadera(IGOTO)",
+    "categoria": "Electricos",
+    "precio": 25.0,
+    "stock": 3
+  },
+  {
+    "codigo": "7506401322915",
+    "nombre": "Pastilla termomagnetica 15A (Montana)",
+    "categoria": "Electricos",
+    "precio": 60.0,
+    "stock": 2
+  },
+  {
+    "codigo": "7506401323005",
+    "nombre": "Pastilla termomagnetica doble pastilla 30A (IGOTO)",
+    "categoria": "Electricos",
+    "precio": 105.0,
+    "stock": 3
+  },
+  {
+    "codigo": "7506401322920",
+    "nombre": "Pastilla termomagnetica 20A (Montana)",
+    "categoria": "Electricos",
+    "precio": 70.0,
+    "stock": 1
+  },
+  {
+    "codigo": "7506401322992",
+    "nombre": "Pastilla termomagnetica doble pastilla 20A (IGOTO)",
+    "categoria": "Electricos",
+    "precio": 110.0,
+    "stock": 1
+  },
+  {
+    "codigo": "7506401322947",
+    "nombre": "Pastilla termomagnetica 20A (IGOTO)",
+    "categoria": "Electricos",
+    "precio": 58.0,
+    "stock": 1
+  },
+  {
+    "codigo": "7506401322954",
+    "nombre": "Pastilla termomagnetica 30A (IGOTO)",
+    "categoria": "Electricos",
+    "precio": 55.0,
+    "stock": 3
+  },
+  {
+    "codigo": "7506401322115",
+    "nombre": "Pastilla termomagnetica 15A (BTICINO)",
+    "categoria": "Electricos",
+    "precio": 152.0,
+    "stock": 1
+  },
+  {
+    "codigo": "7501206656522",
+    "nombre": "Contacto doble aterrizado",
+    "categoria": "Electricos",
+    "precio": 15.0,
+    "stock": 5
+  },
+  {
+    "codigo": "7501206696804",
+    "nombre": "Interruptor de sobreponer duplex (VOLTECH)",
+    "categoria": "Electricos",
+    "precio": 34.0,
+    "stock": 3
+  },
+  {
+    "codigo": "7502252573941",
+    "nombre": "artefacto electrico apagador (IGOTO)",
+    "categoria": "Electricos",
+    "precio": 15.0,
+    "stock": 8
+  },
+  {
+    "codigo": "791279010912",
+    "nombre": "Porta lampara con doble entrada (IUSA)",
+    "categoria": "Electricos",
+    "precio": 21.0,
+    "stock": 1
+  },
+  {
+    "codigo": "7502252571506",
+    "nombre": "Contacto triple tierra con clavija (Montana)",
+    "categoria": "Electricos",
+    "precio": 30.0,
+    "stock": 4
+  },
+  {
+    "codigo": "7502252571510",
+    "nombre": "Contacto triple tierra para extencion (SANELEC)",
+    "categoria": "Elecricos",
+    "precio": 15.0,
+    "stock": 3
+  },
+  {
+    "codigo": "0606110006408",
+    "nombre": "Cable electrico duplex cal.12",
+    "categoria": "Electricos",
+    "precio": 25.0,
+    "stock": 50
+  },
+  {
+    "codigo": "7503005496814",
+    "nombre": "Aerosol blanco brillante (BYP)",
+    "categoria": "Pinturas",
+    "precio": 75.0,
+    "stock": 1
+  },
+  {
+    "codigo": "7502222810267",
+    "nombre": "Aerosol blanco mate (BYP)",
+    "categoria": "Pinturas",
+    "precio": 75.0,
+    "stock": 1
+  },
+  {
+    "codigo": "7501316150906",
+    "nombre": "Aerosol espuma sellador aislante (pennsylvania)",
+    "categoria": "Construcion",
+    "precio": 155.0,
+    "stock": 2
+  },
+  {
+    "codigo": "7503005496807",
+    "nombre": "Aerosol negro brillante (BYP)",
+    "categoria": "Pinturas",
+    "precio": 75.0,
+    "stock": 3
+  },
+  {
+    "codigo": "7503005496791",
+    "nombre": "Aerosol negro mate (BYP)",
+    "categoria": "Pinturas",
+    "precio": 75.0,
+    "stock": 1
+  },
+  {
+    "codigo": "7502244712334",
+    "nombre": "Aerosol primer gris (B.R.C)",
+    "categoria": "Pinturas",
+    "precio": 80.0,
+    "stock": 1
+  },
+  {
+    "codigo": "7502244712211",
+    "nombre": "Aerosol amarillo limon (B.R.C)",
+    "categoria": "Pinturas",
+    "precio": 72.0,
+    "stock": 1
+  },
+  {
+    "codigo": "7502244712242",
+    "nombre": "Aerosol azul marino (B.R.C)",
+    "categoria": "Pinturas",
+    "precio": 73.0,
+    "stock": 1
+  },
+  {
+    "codigo": "7506385303482",
+    "nombre": "Aerosol rosa fluorescente",
+    "categoria": "Pinturas",
+    "precio": 99.0,
+    "stock": 1
+  },
+  {
+    "codigo": "7502222818355",
+    "nombre": "Aerosol cobre (BYP)",
+    "categoria": "Pinturas",
+    "precio": 118.0,
+    "stock": 1
+  },
+  {
+    "codigo": "7503005496852",
+    "nombre": "Aerosol azul claro (byp)",
+    "categoria": "Pinturas",
+    "precio": 66.0,
+    "stock": 1
+  },
+  {
+    "codigo": "7502222810298",
+    "nombre": "Aerosol primer gris (BYP)",
+    "categoria": "Pinturas",
+    "precio": 78.0,
+    "stock": 1
+  },
+  {
+    "codigo": "7502222818300",
+    "nombre": "Aerosol rosa mexicano (BYP)",
+    "categoria": "Pinturas",
+    "precio": 70.0,
+    "stock": 1
+  },
+  {
+    "codigo": "7502222810250",
+    "nombre": "Aerosol naranja (BYP)",
+    "categoria": "Pinturas",
+    "precio": 66.0,
+    "stock": 1
+  },
+  {
+    "codigo": "7502222810328",
+    "nombre": "Aerosol verde fluoresente (BYP)",
+    "categoria": "Pinturas",
+    "precio": 99.0,
+    "stock": 1
+  },
+  {
+    "codigo": "791279012201",
+    "nombre": "Portalampara ladron con cadena (Montana)",
+    "categoria": "Electricos",
+    "precio": 30.0,
+    "stock": 2
+  },
+  {
+    "codigo": "791279010125",
+    "nombre": "Portalampara con clavija",
+    "categoria": "Electricos",
+    "precio": 15.0,
+    "stock": 3
+  },
+  {
+    "codigo": "791279010102",
+    "nombre": "Contacto triple con clavija movil",
+    "categoria": "Electricos",
+    "precio": 20.0,
+    "stock": 1
+  },
+  {
+    "codigo": "7501942315014",
+    "nombre": "adaptador multicontacto tipo\"l\"",
+    "categoria": "Electrico",
+    "precio": 55.0,
+    "stock": 2
+  },
+  {
+    "codigo": "7501942315052",
+    "nombre": "adaptador multicontacto tipo \"T\"",
+    "categoria": "Electrico",
+    "precio": 55.0,
+    "stock": 2
+  },
+  {
+    "codigo": "7506401322756",
+    "nombre": "Adaptador de clavija con patas de laton (IGOTO)",
+    "categoria": "Electricos",
+    "precio": 10.0,
+    "stock": 8
+  },
+  {
+    "codigo": "7501206674260",
+    "nombre": "Taquete plastico azul 3/8\"",
+    "categoria": "Construcion",
+    "precio": 42.0,
+    "stock": 2
+  },
+  {
+    "codigo": "7501206674253",
+    "nombre": "Taquete plastico cafe 5/16\"",
+    "categoria": "Construcion",
+    "precio": 35.0,
+    "stock": 5
+  },
+  {
+    "codigo": "7501206674246",
+    "nombre": "Taquete plastico  rojo 1/4\"",
+    "categoria": "Construcion",
+    "precio": 27.0,
+    "stock": 5
+  },
+  {
+    "codigo": "400000277943",
+    "nombre": "Brocha 6\" (Brody)",
+    "categoria": "Pinturas",
+    "precio": 75.0,
+    "stock": 4
+  },
+  {
+    "codigo": "7500112842497",
+    "nombre": "Brocha 5\" (Practica)",
+    "categoria": "Pinturas",
+    "precio": 55.0,
+    "stock": 3
+  },
+  {
+    "codigo": "7500112842480",
+    "nombre": "Brocha 4\" (Practica)",
+    "categoria": "Pinturas",
+    "precio": 45.0,
+    "stock": 2
+  },
+  {
+    "codigo": "400000277929",
+    "nombre": "Brocha 4\" (Brody)",
+    "categoria": "Pinturas",
+    "precio": 45.0,
+    "stock": 1
+  },
+  {
+    "codigo": "7500112842473",
+    "nombre": "Brocha 3\" (Practica)",
+    "categoria": "Pinturas",
+    "precio": 33.0,
+    "stock": 4
+  },
+  {
+    "codigo": "7500112842459",
+    "nombre": "Brocha 2\" (Practica)",
+    "categoria": "Pinturas",
+    "precio": 20.0,
+    "stock": 3
+  },
+  {
+    "codigo": "7500112842435",
+    "nombre": "Brocha 1\" (Practica)",
+    "categoria": "Pinturas",
+    "precio": 12.0,
+    "stock": 3
+  },
+  {
+    "codigo": "7500112842428",
+    "nombre": "Brocha 1/2\" (Practica)",
+    "categoria": "Pinturas",
+    "precio": 10.0,
+    "stock": 3
+  },
+  {
+    "codigo": "7500112842558",
+    "nombre": "Brocha pelo de camello 3\" (Exito)",
+    "categoria": "Pinturas",
+    "precio": 85.0,
+    "stock": 2
+  },
+  {
+    "codigo": "7500112842541",
+    "nombre": "Brocha pelo de camello 2\"(Exito)",
+    "categoria": "Pinturas",
+    "precio": 63.0,
+    "stock": 1
+  },
+  {
+    "codigo": "7500112842527",
+    "nombre": "Brocha pelo de camello 1\" (Exito)",
+    "categoria": "Pinturas",
+    "precio": 30.0,
+    "stock": 1
+  },
+  {
+    "codigo": "8501728123900",
+    "nombre": "Separador de piso cruceta",
+    "categoria": "Construcion",
+    "precio": 45.0,
+    "stock": 2
+  },
+  {
+    "codigo": "7501206698792",
+    "nombre": "Divisor",
+    "categoria": "Electrico",
+    "precio": 12.0,
+    "stock": 1
+  },
+  {
+    "codigo": "7501206698785",
+    "nombre": "Divisor",
+    "categoria": "Electrico",
+    "precio": 10.0,
+    "stock": 1
+  },
+  {
+    "codigo": "660731532036",
+    "nombre": "Conector de enroscar (Surtek)",
+    "categoria": "Electricos",
+    "precio": 10.0,
+    "stock": 4
+  },
+  {
+    "codigo": "7501892818467",
+    "nombre": "Taquete gris 3/16",
+    "categoria": "Construcion",
+    "precio": 20.0,
+    "stock": 4
+  },
+  {
+    "codigo": "7503041794356",
+    "nombre": "Grapas para cable redondo 16MM (Vianti)",
+    "categoria": "Electrico",
+    "precio": 23.0,
+    "stock": 8
+  },
+  {
+    "codigo": "7506658209657",
+    "nombre": "Guantes sanitarios M (Aurera)",
+    "categoria": "Limpieza",
+    "precio": 35.0,
+    "stock": 1
+  },
+  {
+    "codigo": "7503041794363",
+    "nombre": "Grapas para cable redondo 12MM (Vianti)",
+    "categoria": "Electrico",
+    "precio": 15.0,
+    "stock": 3
+  },
+  {
+    "codigo": "7503041794417",
+    "nombre": "GRapas para cable plano 6x9.5MM (Viant)",
+    "categoria": "Electricos",
+    "precio": 12.0,
+    "stock": 5
+  },
+  {
+    "codigo": "7503041794370",
+    "nombre": "Grapas para cable redondo 10MM (Vianti)",
+    "categoria": "Electricos",
+    "precio": 12.0,
+    "stock": 4
+  },
+  {
+    "codigo": "7503041794431",
+    "nombre": "Grapas para cable plano 3x6MM (Vianti)",
+    "categoria": "Electricos",
+    "precio": 10.0,
+    "stock": 3
+  },
+  {
+    "codigo": "7501206688861",
+    "nombre": "Tapones auditivos de espuma (Truper)",
+    "categoria": "seguirdad",
+    "precio": 10.0,
+    "stock": 1
+  },
+  {
+    "codigo": "7503035229536",
+    "nombre": "cinchos plsaticos negros 2.5 x 10cm 100 pzas",
+    "categoria": "Construccion",
+    "precio": 20.0,
+    "stock": 2
+  },
+  {
+    "codigo": "7503035229406",
+    "nombre": "Cinchos plasticos transparentes 1.5mm x 10 cm",
+    "categoria": "Construccion",
+    "precio": 20.0,
+    "stock": 2
+  },
+  {
+    "codigo": "7503035229567",
+    "nombre": "Cinchos plasticos negros 3.5 x 15 cm",
+    "categoria": "Construccion",
+    "precio": 45.0,
+    "stock": 1
+  },
+  {
+    "codigo": "7503035229468",
+    "nombre": "Cinchos plasticos trasnparentes 4.5mm x 20 cm",
+    "categoria": "Construccion",
+    "precio": 45.0,
+    "stock": 2
+  },
+  {
+    "codigo": "7503035229475",
+    "nombre": "cinchos transparentes 4.5mm x 25cm",
+    "categoria": "Construccion",
+    "precio": 50.0,
+    "stock": 2
+  },
+  {
+    "codigo": "7503035229611",
+    "nombre": "cinchos plasticos negros 4.5 x 30 cm",
+    "categoria": "Construccion",
+    "precio": 55.0,
+    "stock": 2
+  },
+  {
+    "codigo": "7503035229482",
+    "nombre": "Cinchos plasticos transparentes 4.5 x 30 cm",
+    "categoria": "Construccion",
+    "precio": 55.0,
+    "stock": 2
+  },
+  {
+    "codigo": "7503035229642",
+    "nombre": "Cinchos platicos negros 4.5 x 50cm",
+    "categoria": "Construccion",
+    "precio": 53.0,
+    "stock": 2
+  },
+  {
+    "codigo": "7503035229512",
+    "nombre": "Cinchos platicos transparentes 4.5 x 50cm",
+    "categoria": "Construccion",
+    "precio": 53.0,
+    "stock": 2
+  },
+  {
+    "codigo": "7503035229529",
+    "nombre": "Cinchos plasticos transparentes 4.5mm x 60cm",
+    "categoria": "Construccion",
+    "precio": 70.0,
+    "stock": 2
+  },
+  {
+    "codigo": "7503035229659",
+    "nombre": "Cinchos plasticos negros 4.5 mm x 60 cm",
+    "categoria": "Construccion",
+    "precio": 54.0,
+    "stock": 2
+  },
+  {
+    "codigo": "1030102020310",
+    "nombre": "chaleco de seguridad sencillo",
+    "categoria": "Construccion",
+    "precio": 50.0,
+    "stock": 2
+  },
+  {
+    "codigo": "7506612500311",
+    "nombre": "Guantes palma de nitrilo camuflaje",
+    "categoria": "Construccion",
+    "precio": 38.0,
+    "stock": 3
+  },
+  {
+    "codigo": "7506612500332",
+    "nombre": "Guante de nitrilo Negro mediano",
+    "categoria": "Construccion",
+    "precio": 36.0,
+    "stock": 3
+  },
+  {
+    "codigo": "7506612500322",
+    "nombre": "Gunate de carnaza amarillo",
+    "categoria": "Construccion",
+    "precio": 60.0,
+    "stock": 1
+  },
+  {
+    "codigo": "7506612500333",
+    "nombre": "Cuantes de de bolitas",
+    "categoria": "Construccion",
+    "precio": 40.0,
+    "stock": 2
+  },
+  {
+    "codigo": "7501942388698",
+    "nombre": "Guantes de poliester",
+    "categoria": "Construccion",
+    "precio": 36.0,
+    "stock": 1
+  },
+  {
+    "codigo": "7501942377852",
+    "nombre": "Bandola de acero al carbon 1/4\"",
+    "categoria": "Herramientas",
+    "precio": 16.0,
+    "stock": 2
+  },
+  {
+    "codigo": "7501942377869",
+    "nombre": "Bandola de acero al carbon 5/16\"",
+    "categoria": "Herramientas",
+    "precio": 22.0,
+    "stock": 2
+  },
+  {
+    "codigo": "6925582114911",
+    "nombre": "Lapiz probador amarillo (INCO)",
+    "categoria": "Herramientas",
+    "precio": 23.0,
+    "stock": 2
+  },
+  {
+    "codigo": "7501206694527",
+    "nombre": "Bandola mosqueton 3/8\"",
+    "categoria": "Herramienta",
+    "precio": 36.0,
+    "stock": 1
+  },
+  {
+    "codigo": "7501206605523",
+    "nombre": "flexometro pretul 3m",
+    "categoria": "Herramientas",
+    "precio": 43.0,
+    "stock": 1
+  },
+  {
+    "codigo": "7506240653783",
+    "nombre": "flexometro pretul 8m",
+    "categoria": "Herramientas",
+    "precio": 130.0,
+    "stock": 2
+  },
+  {
+    "codigo": "7501942377326",
+    "nombre": "tiralienas con gis y nivel",
+    "categoria": "Herramientas",
+    "precio": 128.0,
+    "stock": 1
+  },
+  {
+    "codigo": "7501942377333",
+    "nombre": "tira lineas con gis",
+    "categoria": "Herramientas",
+    "precio": 128.0,
+    "stock": 1
+  },
+  {
+    "codigo": "7501206685082",
+    "nombre": "navaja retractil 18mm",
+    "categoria": "Herramioentas",
+    "precio": 36.0,
+    "stock": 1
+  },
+  {
+    "codigo": "7501206641170",
+    "nombre": "Navaja retractil 9mm",
+    "categoria": "Heramienta",
+    "precio": 15.0,
+    "stock": 1
+  },
+  {
+    "codigo": "6941640160249",
+    "nombre": "Navaja retractil 18mm marca inco",
+    "categoria": "Herramientas",
+    "precio": 38.0,
+    "stock": 1
+  },
+  {
+    "codigo": "091511500707",
+    "nombre": "navaja repuesto cutter amarillo",
+    "categoria": "Herramientas",
+    "precio": 40.0,
+    "stock": 4
+  },
+  {
+    "codigo": "091511500301",
+    "nombre": "Navaja repuesto cutter 25 mm",
+    "categoria": "Herramienta",
+    "precio": 50.0,
+    "stock": 2
+  },
+  {
+    "codigo": "7501600551198",
+    "nombre": "plasti acero",
+    "categoria": "herramientas",
+    "precio": 150.0,
+    "stock": 2
+  },
+  {
+    "codigo": "750160550948",
+    "nombre": "plastiacero epxico",
+    "categoria": "Herramientas",
+    "precio": 163.0,
+    "stock": 1
+  },
+  {
+    "codigo": "7506612501100",
+    "nombre": "encendedor de gas multiusos",
+    "categoria": "Herramientas",
+    "precio": 40.0,
+    "stock": 10
+  },
+  {
+    "codigo": "7501102631206",
+    "nombre": "plastiloka epoxica azul",
+    "categoria": "Herramientas",
+    "precio": 40.0,
+    "stock": 1
+  },
+  {
+    "codigo": "7501102630001",
+    "nombre": "plastiloka epoxica verde",
+    "categoria": "Herramientas",
+    "precio": 33.0,
+    "stock": 1
+  },
+  {
+    "codigo": "75011026143322",
+    "nombre": "plasti loka brocha",
+    "categoria": "Herramienta",
+    "precio": 40.0,
+    "stock": 2
+  },
+  {
+    "codigo": "7501102610003",
+    "nombre": "kol loka aplicador a precion",
+    "categoria": "Herramientas",
+    "precio": 33.0,
+    "stock": 4
+  },
+  {
+    "codigo": "7805500004946",
+    "nombre": "No mas clavos",
+    "categoria": "Herramienta",
+    "precio": 85.0,
+    "stock": 1
+  },
+  {
+    "codigo": "7506458078958",
+    "nombre": "Selldor uso general baños y cocinas",
+    "categoria": "pinturas",
+    "precio": 50.0,
+    "stock": 5
+  },
+  {
+    "codigo": "7501316105579",
+    "nombre": "pepe silicon multi usos 20gr",
+    "categoria": "Pinturas",
+    "precio": 27.0,
+    "stock": 3
+  },
+  {
+    "codigo": "7503022983236",
+    "nombre": "pepe silicon multi usos75gr",
+    "categoria": "Pinturas",
+    "precio": 45.0,
+    "stock": 4
+  },
+  {
+    "codigo": "7503035229675",
+    "nombre": "Layna de 5\"",
+    "categoria": "Herramienta",
+    "precio": 20.0,
+    "stock": 6
+  },
+  {
+    "codigo": "6925582114910",
+    "nombre": "probador de corriente digital",
+    "categoria": "Herramienta",
+    "precio": 30.0,
+    "stock": 3
+  },
+  {
+    "codigo": "2000000330200",
+    "nombre": "apagador sencillo antiguo",
+    "categoria": "Electrico",
+    "precio": 15.0,
+    "stock": 8
+  },
+  {
+    "codigo": "2000000330198",
+    "nombre": "contacto sencillo",
+    "categoria": "Electrico",
+    "precio": 14.0,
+    "stock": 1
+  },
+  {
+    "codigo": "2000000330181",
+    "nombre": "contacto trifasico",
+    "categoria": "Electrico",
+    "precio": 15.0,
+    "stock": 2
+  },
+  {
+    "codigo": "2000000330202",
+    "nombre": "apagador IUSA",
+    "categoria": "Electrico",
+    "precio": 20.0,
+    "stock": 2
+  },
+  {
+    "codigo": "2000000330199",
+    "nombre": "contacto sencillo Montana",
+    "categoria": "Electrico",
+    "precio": 13.0,
+    "stock": 13
+  },
+  {
+    "codigo": "7503035229674",
+    "nombre": "layna de 2 1/2\"",
+    "categoria": "Pintura",
+    "precio": 10.0,
+    "stock": 6
+  },
+  {
+    "codigo": "7501206694540",
+    "nombre": "mosqueton",
+    "categoria": "Herramienta",
+    "precio": 16.0,
+    "stock": 1
+  },
+  {
+    "codigo": "7501206694538",
+    "nombre": "Mosqueton de 1/4\"",
+    "categoria": "Herramienta",
+    "precio": 12.0,
+    "stock": 2
+  },
+  {
+    "codigo": "7501206694537",
+    "nombre": "mosqueton de 3/8\"",
+    "categoria": "Herramienta",
+    "precio": 26.0,
+    "stock": 1
+  },
+  {
+    "codigo": "7506240653784",
+    "nombre": "flexometro 5m wlakon",
+    "categoria": "Herramienta",
+    "precio": 85.0,
+    "stock": 1
+  },
+  {
+    "codigo": "7506240653782",
+    "nombre": "flexometro 3m wlakon",
+    "categoria": "Herramienta",
+    "precio": 48.0,
+    "stock": 2
+  }
+]

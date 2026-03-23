@@ -1,0 +1,78 @@
+[
+  {
+    "fecha_operacion": "2026-02-26",
+    "fecha_hora_cierre": "2026-02-26 13:19:36",
+    "total_ventas": 425.0,
+    "productos_vendidos": 8,
+    "ventas": [
+      {
+        "codigo": "4008",
+        "nombre": "Cable Eléctrico",
+        "cantidad": 3,
+        "precio_unitario": 15.0,
+        "total": 45.0,
+        "fecha_hora": "2026-02-26 13:03:23"
+      },
+      {
+        "codigo": "1029",
+        "nombre": "palanca",
+        "cantidad": 1,
+        "precio_unitario": 200.0,
+        "total": 200.0,
+        "fecha_hora": "2026-02-26 13:03:23"
+      },
+      {
+        "codigo": "4008",
+        "nombre": "Cable Eléctrico",
+        "cantidad": 1,
+        "precio_unitario": 15.0,
+        "total": 15.0,
+        "fecha_hora": "2026-02-26 13:11:54"
+      },
+      {
+        "codigo": "4008",
+        "nombre": "Cable Eléctrico",
+        "cantidad": 1,
+        "precio_unitario": 15.0,
+        "total": 15.0,
+        "forma_pago": "Efectivo",
+        "fecha_hora": "2026-02-26 13:18:39"
+      },
+      {
+        "codigo": "9834",
+        "nombre": "pintura aerosol negro mate",
+        "cantidad": 1,
+        "precio_unitario": 75.0,
+        "total": 75.0,
+        "forma_pago": "Efectivo",
+        "fecha_hora": "2026-02-26 13:18:39"
+      },
+      {
+        "codigo": "9835",
+        "nombre": "pintura aerosol negro brillante",
+        "cantidad": 1,
+        "precio_unitario": 75.0,
+        "total": 75.0,
+        "forma_pago": "Tarjeta",
+        "fecha_hora": "2026-02-26 13:19:09"
+      }
+    ]
+  },
+  {
+    "fecha_operacion": "2026-02-26",
+    "fecha_hora_cierre": "2026-02-26 13:36:00",
+    "total_ventas": 30.0,
+    "productos_vendidos": 2,
+    "ventas": [
+      {
+        "codigo": "4008",
+        "nombre": "Cable Eléctrico",
+        "cantidad": 2,
+        "precio_unitario": 15.0,
+        "total": 30.0,
+        "forma_pago": "Efectivo",
+        "fecha_hora": "2026-02-26 13:23:23"
+      }
+    ]
+  }
+]
